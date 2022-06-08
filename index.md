@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-<embed src="Dominos.Heuristic.Evaluation.pdf" type="application/pdf" />
+<embed src="https://github.com/tcadi001/Dominos-Pizza-Analysis/blob/7e1530cfe140f8b3fbd96a5598f0617a0e345d28/Dominos.Heuristic.Evaluation.pdf" type="application/pdf" />
