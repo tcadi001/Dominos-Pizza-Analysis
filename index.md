@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-[Dominos Heuristic Evaluation.pdf](https://github.com/tcadi001/Dominos-Pizza-Analysis/files/8865438/Dominos.Heuristic.Evaluation.pdf)
 
-<embed src="https://github.com/tcadi001/Dominos-Pizza-Analysis/blob/gh-pages/Dominos.Heuristic.Evaluation.pdf" type="application/pdf" />
+
+<embed src="Dominos.Heuristic.Evaluation.pdf" type="application/pdf" />
